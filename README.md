@@ -27,6 +27,22 @@ A desktop-based Point-of-Sale & Inventory Management System with login roles (Ad
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Login Screen
+<img src="screenshots/login.png" width="400">
+
+### 📊 Dashboard / Inventory View
+<img src="screenshots/dashboard.png" width="600">
+
+### ➕ Add Product (Admin)
+<img src="screenshots/add_product.png" width="400">
+
+### 💸 Sell Product
+<img src="screenshots/sell_product.png" width="400">
+
+---
+
 ### 🚀 How to Run
 
 ```bash
